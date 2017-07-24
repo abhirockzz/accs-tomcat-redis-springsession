@@ -1,0 +1,5 @@
+{
+  "runtime":{"majorVersion":"8"},
+  "command":"sh ./start.sh",
+  "notes":"Clustered Tomcat on ACCCS with Redis based HTTP Session persistence"
+}
